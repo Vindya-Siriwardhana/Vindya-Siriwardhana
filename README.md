@@ -8,6 +8,11 @@
 ---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a6ff,100:b98cff&height=200&section=header&text=Data%20Analyst&fontSize=50&fontColor=fff&animation=fadeIn" />
 ---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+</p>
+---
 name: Generate Snake
 
 on:
