@@ -22,8 +22,7 @@ I'm an analytical professional with dual master's degrees in **Applied Statistic
 
 ---
 
-Matplotlib, Seaborn)
-Database Management (MySQL, PostgreSQL)🛠️ Technical Skills
+🛠️ Technical Skills
 Programming Languages
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
