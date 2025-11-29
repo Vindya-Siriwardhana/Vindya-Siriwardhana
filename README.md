@@ -2,43 +2,6 @@
 <h3 align="center">Data Analyst | Data Scientist | Turning Data into Actionable Insights</h3>
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vindya%20Siriwardhana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
-</p>
----
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a6ff,100:b98cff&height=200&section=header&text=Data%20Analyst&fontSize=50&fontColor=fff&animation=fadeIn" />
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
-</p>
----
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: YOUR_GITHUB_USERNAME
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
----
 
 ## 🚀 About Me
 
