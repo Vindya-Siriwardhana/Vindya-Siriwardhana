@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0E75B6&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Vindya+Siriwardhana;Data+Analyst+%7C+Data+Scientist;Turning+Data+into+Actionable+Insights;Statistical+Modeling+%7C+Machine+Learning;MSc+Data+Science+%7C+MSc+Applied+Statistics" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vindya%20Siriwardhana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </p>
 ---
 
