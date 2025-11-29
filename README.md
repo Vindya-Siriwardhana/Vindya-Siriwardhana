@@ -5,9 +5,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vindya%20Siriwardhana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </p>
-
+---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a6ff,100:b98cff&height=200&section=header&text=Data%20Analyst&fontSize=50&fontColor=fff&animation=fadeIn" />
-
+---
 name: Generate Snake
 
 on:
