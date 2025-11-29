@@ -14,9 +14,9 @@ I'm an analytical professional with dual master's degrees in **Applied Statistic
 - 🔭 I'm currently working at **CLINSTATS LTD** as a Data Analyst
 - 🌱 I'm currently expanding my expertise in **Advanced Machine Learning, Deep Learning & Cloud Analytics**
 - 🎓 Dual Master's degrees: **MSc Data Science (University of Essex)** & **MSc Applied Statistics (University of Colombo)**
-- 💼 **4+ years** of professional experience in data analysis and statistical programming
+- 💼 **4+ years** of professional experience in data analysis and analytics
 - 📊 Successfully reduced data processing time from **2 days to 4 hours** through automation
-- 🎯 Specialized in **Statistical Modeling, Time Series Forecasting & Business Analytics**
+- 🎯 Specialized in **Statistical Modeling, predictive modeling, Time Series Forecasting & Business Analytics**
 - 📫 How to reach me: **asvindyaravi@gmail.com**
 - 📍 Based in **Stevenage, UK**
 
@@ -66,23 +66,12 @@ I'm an analytical professional with dual master's degrees in **Applied Statistic
 
 ### 🔹 Data Analyst | CLINSTATS LTD
 **October 2022 – Present | Part-time**
-- Analyze biotechnology research datasets using advanced statistical and data science methods
-- Develop comprehensive analytical reports summarizing research findings for stakeholders
-- Validate data procedures ensuring research data integrity through rigorous statistical analysis
-- Perform exploratory data analysis and modeling to support clinical research objectives
 
 ### 🔹 Assistant Research Manager | State Timber Corporation, Sri Lanka
 **February 2017 – April 2021**
-- Designed statistical research methodologies improving data collection efficiency by **30%**
-- Engineered automated Python analysis pipelines reducing processing time from **2 days to 4 hours**
-- Led data-driven initiatives resulting in **15% cost savings** in resource allocation
-- Created interactive dashboards communicating complex findings to non-technical stakeholders
 
 ### 🔹 Statistical Programmer | Gestetner of Ceylon Plc
 **October 2016 – January 2017**
-- Implemented statistical models and automated reporting processes using R/Python
-- Maintained data integrity throughout analysis pipelines
-- Translated business requirements into technical specifications
 
 ---
 
@@ -113,41 +102,6 @@ I'm an analytical professional with dual master's degrees in **Applied Statistic
 - Developed predictive models for timber species identification
 - Conducted comprehensive statistical analysis and validation
 - **Tech Stack:** R, Statistical Classification, Data Analysis
-
----
-
-## 🎓 Education & Certifications
-
-**🎓 MSc in Data Science**
-- University of Essex, UK | 2023
-- Thesis: *ARIMA and Machine Learning for Predicting Climate Metrics in England*
-
-**🎓 MSc in Applied Statistics**
-- University of Colombo, Sri Lanka | 2018
-- Thesis: *Classification of Timber Species in Sri Lanka based on Strength Properties*
-
-**🎓 BSc in Physical Science**
-- University of Sri Jayewardenepura, Sri Lanka | 2014
-
-**Professional Memberships:**
-- SLAAS (Sri Lanka Association for the Advancement of Science)
-- IASSL (Institute of Applied Statistics Sri Lanka)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
