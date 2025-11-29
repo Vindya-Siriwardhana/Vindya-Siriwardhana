@@ -25,7 +25,7 @@ I'm an analytical professional with dual master's degrees in **Applied Statistic
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-![Python]([https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hiclipart.com%2Ffree-transparent-background-png-clipart-pgbvc&psig=AOvVaw2ALR5lh50dTZSTMyFPr2xM&ust=1764501362361000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiWk_mdl5EDFQAAAAAdAAAAABAT))
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
