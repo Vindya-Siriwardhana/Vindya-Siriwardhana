@@ -76,10 +76,8 @@ Database Management (MySQL, PostgreSQL)
 
 ### 🔹 Data Analyst | CLINSTATS LTD
 **October 2022 – Present | Part-time**
-
 ### 🔹 Assistant Research Manager | State Timber Corporation, Sri Lanka
 **February 2017 – April 2021**
-
 ### 🔹 Statistical Programmer | Gestetner of Ceylon Plc
 **October 2016 – January 2017**
 
@@ -88,30 +86,16 @@ Database Management (MySQL, PostgreSQL)
 ## 📊 Featured Projects
 
 ### 🔸 ARIMA and Machine Learning for Predicting Climate Metrics in England
-**MSc Data Science Thesis | University of Essex**
-- Developed time series forecasting models for climate prediction
-- Applied ARIMA methodology and machine learning algorithms
-- Achieved high accuracy in predicting climate metrics for England
-- **Tech Stack:** Python, ARIMA, Machine Learning, Statistical Modeling
+- Developed time series forecasting models for climate prediction - Applied ARIMA methodology and machine learning algorithms - Achieved high accuracy in predicting climate metrics for England - **Tech Stack:** Python, ARIMA, Machine Learning, Statistical Modeling
 
 ### 🔸 Data-Driven Customer Segmentation Analysis
-- Developed clustering algorithms identifying distinct customer segments
-- Applied advanced feature engineering improving model performance by **25%**
-- Created interactive visualization dashboard for business insights
-- **Tech Stack:** Python, Scikit-learn, Pandas, Tableau
+- Developed clustering algorithms identifying distinct customer segments - Applied advanced feature engineering improving model performance by **25%** - Created interactive visualization dashboard for business insights - **Tech Stack:** Python, Scikit-learn, Pandas, Tableau
 
 ### 🔸 Time Series Forecasting for Resource Optimization
-- Built ARIMA and Prophet models forecasting resource demands with **87% accuracy**
-- Designed automated anomaly detection alerting system
-- Optimized resource allocation through predictive analytics
-- **Tech Stack:** Python, ARIMA, Prophet, Statistical Modeling
+- Built ARIMA and Prophet models forecasting resource demands with **87% accuracy** - Designed automated anomaly detection alerting system - Optimized resource allocation through predictive analytics - **Tech Stack:** Python, ARIMA, Prophet, Statistical Modeling
 
 ### 🔸 Classification of Timber Species in Sri Lanka
-**MSc Applied Statistics Thesis | University of Colombo**
-- Applied statistical classification methods to timber strength properties
-- Developed predictive models for timber species identification
-- Conducted comprehensive statistical analysis and validation
-- **Tech Stack:** R, Statistical Classification, Data Analysis
+- Applied statistical classification methods to timber strength properties - Developed predictive models for timber species identification - Conducted comprehensive statistical analysis and validation - **Tech Stack:** R, Statistical Classification, Data Analysis
 
 ---
 
