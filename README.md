@@ -2,6 +2,10 @@
 <h3 align="center">Data Analyst | Data Scientist | Turning Data into Actionable Insights</h3>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0E75B6&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Vindya+Siriwardhana;Data+Analyst+%7C+Data+Scientist;Turning+Data+into+Actionable+Insights;Statistical+Modeling+%7C+Machine+Learning;MSc+Data+Science+%7C+MSc+Applied+Statistics" alt="Typing SVG" />
+</p>
+---
 
 ## 🚀 About Me
 
